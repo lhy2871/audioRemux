@@ -2,6 +2,7 @@
 There are some scripts used for remux multi mono audio files to one multi-track audiofile
 
 # Use FFMPEG for media processing core
+So you Must install FFMPEG to your computer first.
 
 # Usage:
   remux_2.sh/remux_4.sh: These script is for multi-track recorder running at mono mode, which means every take has its own folder. Every folder has some file. For example recording 2 channel will get 2 mono files in one folder.
