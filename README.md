@@ -1,5 +1,6 @@
 # audioRemux
 There are some scripts used for remux multi mono audio files to one multi-track audiofile
+Mac ONLY now
 
 # Use FFMPEG for media processing core
 So you Must install FFMPEG to your computer first.
